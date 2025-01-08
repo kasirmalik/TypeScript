@@ -21,7 +21,7 @@ interface Bootle {
     brand:string;
     type:number
 }
-identity3<Bootle>({});
+// identity3<Bootle>({});
 
 // identity2(true)
 
